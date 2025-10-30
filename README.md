@@ -1,6 +1,5 @@
 ## Description
-A simple web app to demonstrate validated input field component built with **Next.js**, **TypeScript**, and **Tailwind CSS**.
-It is a part of a university lab assignment.
+A simple web app with form validation built with **Next.js**, **TypeScript**, and **Tailwind CSS** as part of a university lab assignment.
 
 ## How to run locally
 
