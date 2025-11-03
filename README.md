@@ -1,8 +1,10 @@
 ## Description
-A simple web app with form validation built with **Next.js**, **TypeScript**, and **Tailwind CSS** as part of a university lab assignment.
+A simple web app with form validation, built with **Next.js**, **TypeScript** and **Tailwind CSS** as part of a university lab assignment.
+
+## Live demo
+[See it in Action](https://validated-form-app.vercel.app/)
 
 ## How to run locally
-
 After cloning the repository, run the development server with one of the following commands:
 
 ```bash
